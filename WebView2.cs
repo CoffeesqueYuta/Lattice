@@ -32,8 +32,9 @@ namespace Lattice
             {
                 await webView.EnsureCoreWebView2Async();
                 webView.CoreWebView2.WebMessageReceived += CoreWebView2_WebMessageReceived;
-                string htmlPath = Application.StartupPath + "\\root\\index.html";
-                webView.CoreWebView2.Navigate(new Uri(htmlPath).AbsoluteUri);
+                string rootPath = Path.Combine(Application.StartupPath, "root");
+                webView.CoreWebView2.SetVirtualHostNameToFolderMapping("lattice.test", rootPath, CoreWebView2HostResourceAccessKind.DenyCors);
+                webView.CoreWebView2.Navigate("https://lattice.test/index.html");
             }
             catch (Exception ex)
             {
