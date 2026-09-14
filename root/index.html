@@ -1,11 +1,136 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
+    <title>title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lattice</title>
+    <link rel="icon" href="/static/img/app.ico">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+    <script src="/lib/deep.js"></script>
+    <script type="module" src="/lib/lattice/bootstrap.js"></script>
+    <link rel="stylesheet" href="/static/style/common/common.css">
+    <link rel="stylesheet" href="/static/style/common/frame.css">
+
+    <style>
+        /* ===== Timestamp / misc ===== */
+
+        .timestamp {
+            text-align: center;
+        }
+    </style>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const main = document.querySelector("main");
+            const sidebar = document.getElementById("sidebar");
+            const toggleButton = document.getElementById("toggleButton");
+
+            main.addEventListener("click", function () {
+                sidebar.classList.remove("expanded");
+                sidebar.classList.add("collapsed");
+            });
+
+            if (toggleButton && sidebar) {
+                toggleButton.addEventListener("click", function () {
+                    if (sidebar.classList.contains("expanded")) {
+                        sidebar.classList.remove("expanded");
+                        sidebar.classList.add("collapsed");
+                    } else {
+                        sidebar.classList.remove("collapsed");
+                        sidebar.classList.add("expanded");
+                    }
+                });
+            }
+
+            customElements.whenDefined('login-form-popup').then(function () {
+                let openTries = 0;
+                const maxOpenTries = 120;
+                const openLoginTimer = setInterval(function () {
+                    try {
+                        openPopup('login-form', 1);
+                        clearInterval(openLoginTimer);
+                    } catch (error) {
+                        openTries += 1;
+                        if (openTries >= maxOpenTries) {
+                            clearInterval(openLoginTimer);
+                            console.error('Failed to open login-form popup.', error);
+                        }
+                    }
+                }, 50);
+            });
+        });
+    </script>
 </head>
+
+
 <body>
-    This is an example.
+    <div class="cloud" id="primary-cloud"></div>
+
+    <login-form-popup class="popup-card"></login-form-popup>
+
+    <header>
+        <div id="title">テストシステム</div>
+        <!-- div id="" ログイン></div -->
+    </header>
+    <div class="content">
+        <div id="sidebar" class="collapsed">
+            <div class="toggle-btn-container">
+                <button id="toggleButton" class="toggle-btn">
+                <i class="fas fa-angle-left"></i>
+                </button>
+            </div>
+
+            <div class="sidebar-header">
+                <h3>メニュー</h3>
+            </div>
+
+            <nav aria-label="Main Navigation">
+                <ul class="menu">
+                <li id="sidebtn-to-top" class="interaction"><a href="#"><i class="fa fa-home"></i> <span>トップページ</span></a></li>
+                <li id="sidebtn-to-help" class="interaction"><a href="#"><i class="fas fa-question"></i> <span>ヘルプ</span></a></li>
+                <li><a href="#"><i class="fas fa-search"></i> <span>検索</span></a></li>
+                <li><a href="#"><i class="fas fa-cogs"></i> <span>設定</span></a></li>
+                <li><a href="#"><i class="fas fa-user"></i> <span>アカウント</span></a></li>
+                </ul>
+
+                <ul class="links">
+                <li class="genre">資料
+                    オペレーション
+                    <ul>
+                        <li id="sidebarbtn-to-top" class="interaction">トップページ</li>
+                        <li id="sidebarbtn-to-help" class="interaction">ヘルプページ</li>
+                    </ul>
+                </li>
+                <li class="genre">
+                    入出力
+                    <ul>
+
+                    </ul>
+                </li>
+                <li class="genre">
+                    統計解析
+                    <ul>
+                        <li id="sidebarbtn-to-statistics" class="interaction">統計解析ページ</li>
+                    </ul>
+                </li>
+                <li class="genre">
+                    メンテナンス
+                    <ul>
+                        <li id="sidebarbtn-to-maintenance" class="interaction">メンテナンスページ</li>
+                        <li id="sidebarbtn-to-change-password" class="interaction">パスワード変更</li>
+                    </ul>
+                </li>
+                </ul>
+            </nav>
+        </div>
+
+        <main>
+         
+        </main>
+    </div>
+
 </body>
+
 </html>

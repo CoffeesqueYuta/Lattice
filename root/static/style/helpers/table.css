@@ -1,0 +1,169 @@
+
+/* ===== Tables ===== */
+
+table {
+    width: 100%;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 2px;
+    text-align: center;
+
+    font-size: 16px;
+    position: relative;
+    cursor: help;
+}
+
+th {
+    background-color: #eee;
+    font-weight: 600;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #eaeaea;
+}
+
+/* ===== Tooltip handling ===== */
+
+td[data-tooltip]:hover::before {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: calc(100% + 5px);
+    left: 50%;
+    transform: translateX(-50%);
+
+    background: #333;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+
+    font-size: 14px;
+    white-space: nowrap;
+    z-index: 100;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+td[data-tooltip]:hover::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 8px solid #333;
+
+    z-index: 100;
+    filter: drop-shadow(0 1px 2px rgba(0,0,0,0.2));
+}
+
+/* ===== Cell alignment helpers ===== */
+
+td.num,
+input.num {
+    font-family: "Courier New", monospace;
+}
+
+td.center,
+input.center {
+    text-align: center;
+}
+
+td.right,
+input.right {
+    text-align: right;
+}
+
+td.kanji,
+input.kanji {
+    font-family: serif;
+    text-align: center;
+}
+
+/* ===== Column width presets ===== */
+
+th.U-1, td.U-1 {
+    min-width: 40px;
+    max-width: 40px;
+}
+
+th.U-2, td.U-2 {
+    min-width: 80px;
+    max-width: 80px;
+}
+
+th.U-3, td.U-3 {
+    min-width: 120px;
+    max-width: 120px;
+}
+
+td.p-10 { padding: 0 10px; }
+td.p-30 { padding: 0 30px; }
+
+th.f-12, td.f-12 {
+    font-size: 12px;
+}
+
+/* ===== Inputs ===== */
+
+input {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: inherit;
+    border: none;
+    background: transparent;
+}
+
+input:invalid {
+    background-color: pink;
+    border-color: crimson;
+    box-shadow: 0 0 5px crimson;
+}
+
+/* ===== Add / Delete row controls ===== */
+
+div#add-row,
+div.delete-row {
+    width: 24.5px;
+    height: 24.5px;
+    margin: 0 auto;
+
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 24.5px;
+    text-align: center;
+
+    user-select: none;
+}
+
+div#add-row {
+    background-color: skyblue;
+}
+
+div#add-row:hover {
+    cursor: pointer;
+}
+
+div.delete-row {
+    background-color: pink;
+}
+
+div.delete-row:hover {
+    cursor: pointer;
+}

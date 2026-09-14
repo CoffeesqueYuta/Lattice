@@ -1,0 +1,209 @@
+<style>
+    div.popup#login-form {
+        position: absolute;
+        width: 500px;
+        left: calc((100% - 500px) / 2);
+        background-color: ghostwhite;
+        overflow: hidden;
+    }
+
+    div.popup#login-form::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 4px;
+        background: transparent;
+        transition: background 0.3s ease;
+    }
+
+    div.popup#login-form.loading::before {
+        background: linear-gradient(90deg, skyblue, blue, skyblue);
+        background-size: 200% 100%;
+        animation: loading-gradient 1.5s infinite linear
+    }
+
+    @keyframes loading-gradient {
+        0% { background-position: 200% 0; }
+        100% { background-position: -200% 0; }
+    }
+
+    div.popup#login-form > form > fieldset > div {
+        margin-top: 50px;
+    }
+
+    div.popup#login-form > form > fieldset > div > label {
+        width: 100px;
+        text-align: left;
+    }
+
+    div.popup#login-form > form > fieldset > div > input {
+        width: 350px;
+        border: 1px solid gray;
+        border-radius: 3px;
+    }
+
+    div.popup#login-form > form > fieldset > div.error {
+        height: 18px;
+        margin-top: 5px;
+        margin-left: 100px;
+        color: crimson;
+        font-size: 12px;
+        text-align: left;
+    }
+
+    div.popup#login-form > form > fieldset > input#login-submit {
+        margin-top: 30px;
+        padding: 5px;
+        border-radius: 6px;
+        border: none;
+        background-color: skyblue;
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+    }
+
+    div.popup#login-form > form > fieldset > input#login-submit:hover:not(:disabled) {
+        background-color: blue;
+        cursor: pointer;
+    }
+
+    div.popup#login-form > form > fieldset > input#login-submit:disabled {
+        background-color: #ccc;
+        cursor: wait;
+        opacity: 0.7;
+    }
+
+    div.popup#login-form > form > fieldset > div.notice-message {
+        height: 18px;
+        margin-top: 8px;
+        color: #d9534f;
+        font-size: 13px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    div.popup#login-form:not(.loading) > form > fieldset > div.notice-message {
+        display: none;
+    }
+</style>
+
+<div class="popup" id="login-form">
+    <form id="form-element">
+        <fieldset>
+            <legend><h3>ユーザ認証</h3></legend>
+            <div style="display: flex;">
+                <label for="user-num">職員番号</label>
+                <input 
+                    type="text" 
+                    id="user-num" 
+                    name="user-num"
+                    pattern="^[0-9]{4,5}$"
+                    title="4桁ないしは5桁の半角数字" 
+                />
+            </div>
+            <div id="user-num-err" class="error"></div>
+            <div style="display: flex;">
+                <label for="password">パスワード</label>
+                <input 
+                    type="password" 
+                    id="password" 
+                    name="password"
+                    title="パスワード"
+                />
+            </div>
+            <div id="password-err" class="error"></div>
+            <input type="button" class="interaction" id="login-submit" value="ログイン" />
+            <div id="notice-notice" class="notice-message"></div>
+        </fieldset>
+    </form>
+</div>
+
+
+<script>
+    connectedCallback() {
+        const popup = this.$('#login-form');
+        const form = this.$('#form-element');
+        const submitBtn = this.$('#login-submit');
+        const noticeEl = this.$('#notice-notice');
+
+        submitBtn.addEventListener('click', (e) => {
+           e.preventDefault();
+
+           popup.classList.add('loading');
+           submitBtn.disabled = true;
+           noticeEl.textContent = '処理中はクリックしないでください。';
+
+            try {
+            this.setCredential(e);
+            } catch (error) {
+            console.error('Failed to set credential.', error);
+            }
+
+           setTimeout(() => {
+            popup.classList.remove('loading');
+            submitBtn.disabled = false;
+            noticeEl.textContent = '';
+           }, 10000);
+        });
+
+        const handleInput = (e) => {
+            this.setCredential(e);
+        }
+        this.$('#user-num').addEventListener('input', handleInput);
+        this.$('#password').addEventListener('input', handleInput);
+    }
+
+    setCredential(e) {
+        if (!window.credentialElement || typeof window.credentialElement !== 'object') {
+            return;
+        }
+
+        const form = e.target.closest('form');
+
+        if (!form) {
+            window.credentialElement.element = {
+                tag: "",
+                id: "",
+                classes: "",
+                text: "",
+                userNum: "",
+                password: "",
+                validity: "",
+                cap: ""
+            };
+            return;
+        }
+
+        const userNum = form.querySelector('#user-num');
+        const password = form.querySelector('#password');
+
+        window.credentialElement.element = {
+            tag: form.tagName,
+            id: form.id,
+            classes: [...form.classList],
+            text: form.textContent.trim(),
+            userNum: userNum.value,
+            password: password.value,
+            validity: form.checkValidity() ? "valid" : "invalid",
+            cap: ""
+        };
+    }
+
+    async sha256Base64(input) {
+        const data = new TextEncoder().encode(input);
+        const hash = await crypto.subtle.digest('SHA-256', data);
+        return btoa(String.fromCharCode(...new Uint8Array(hash)));
+    }
+
+    setHash(input) {
+        if (!window.encryptionElement || typeof window.encryptionElement !== 'object') {
+            return;
+        }
+
+        this.sha256Base64(input).then(hash => {
+            window.encryptionElement.element = { hash: hash, cap: "" };
+        });
+    }
+</script>

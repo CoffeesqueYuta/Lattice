@@ -1,0 +1,96 @@
+public sealed class DomElement
+{
+    private readonly RpcClient rpc;
+    private readonly long handle;
+    private readonly List<DomOperation> operations;
+
+    internal DomElement(
+        RpcClient rpc,
+        long handle)
+    {
+        this.rpc = rpc;
+        this.handle = handle;
+        this.operations = new List<DomOperation>();
+    }
+
+    public DomElement SetTextContent(string value)
+    {
+        operations.Add(
+            new DomOperation(
+                "setProperty",
+                "textContent",
+                value
+            )
+        );
+
+        return this;
+    }
+
+    public DomElement SetInnerHtml(string value)
+    {
+        operations.Add(
+            new DomOperation(
+                "setProperty",
+                "innerHTML",
+                value
+            )
+        );
+
+        return this;
+    }
+
+    public DomElement SetAttribute(
+        string name,
+        string value)
+    {
+        operations.Add(
+            new DomOperation(
+                "setAttribute",
+                name,
+                value
+            )
+        );
+
+        return this;
+    }
+
+    public DomElement Click()
+    {
+        operations.Add(
+            new DomOperation(
+                "invoke",
+                "click"
+            )
+        );
+
+        return this;
+    }
+
+    public DomElement Focus()
+    {
+        operations.Add(
+            new DomOperation(
+                "invoke",
+                "focus"
+            )
+        );
+
+        return this;
+    }
+
+    public async Task Apply()
+    {
+        if (operations.Count == 0)
+        {
+            return;
+        }
+
+        await rpc.InvokeAsync(
+            "object.apply",
+            handle,
+            operations.ToArray()
+        );
+
+        operations.Clear();
+    }
+}
