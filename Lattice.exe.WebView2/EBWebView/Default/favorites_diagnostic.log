@@ -27,3 +27,482 @@
 2026-09-09 22:39:17.536: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-09 22:39:17.536: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-09 22:39:41.472: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:53:20.947: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:53:20.947: [INFO] Profiles total count: 1
+2026-09-12 16:53:20.947: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-09T22:39:39.796Z
+2026-09-12 16:53:20.947: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:53:20.947: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-09T22:39:39.796Z
+2026-09-12 16:53:20.947: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:53:20.947: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:53:20.947: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:53:20.947: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:53:23.279: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:54:06.668: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:54:06.668: [INFO] Profiles total count: 1
+2026-09-12 16:54:06.668: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:53:21.025Z
+2026-09-12 16:54:06.668: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:54:06.668: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:53:21.025Z
+2026-09-12 16:54:06.668: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:54:06.668: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:54:06.668: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:54:06.668: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:54:13.940: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:54:31.094: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:54:31.094: [INFO] Profiles total count: 1
+2026-09-12 16:54:31.094: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:54:06.738Z
+2026-09-12 16:54:31.094: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:54:31.094: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:54:06.738Z
+2026-09-12 16:54:31.094: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:54:31.094: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:54:31.094: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:54:31.094: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:54:53.623: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:55:37.107: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:55:37.107: [INFO] Profiles total count: 1
+2026-09-12 16:55:37.107: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:54:52.379Z
+2026-09-12 16:55:37.107: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:55:37.107: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:54:52.379Z
+2026-09-12 16:55:37.107: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:55:37.107: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:55:37.107: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:55:37.107: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:56:06.544: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:56:21.777: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:56:21.777: [INFO] Profiles total count: 1
+2026-09-12 16:56:21.777: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:56:04.914Z
+2026-09-12 16:56:21.777: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:56:21.777: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:56:04.914Z
+2026-09-12 16:56:21.777: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:56:21.777: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:56:21.777: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:56:21.777: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:56:24.466: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:57:35.502: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:57:35.502: [INFO] Profiles total count: 1
+2026-09-12 16:57:35.502: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:56:21.850Z
+2026-09-12 16:57:35.502: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:57:35.502: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:56:21.850Z
+2026-09-12 16:57:35.502: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:57:35.502: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:57:35.502: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:57:35.502: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:58:28.813: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:59:17.084: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:59:17.084: [INFO] Profiles total count: 1
+2026-09-12 16:59:17.084: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:57:35.569Z
+2026-09-12 16:59:17.084: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 16:59:17.084: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T16:57:35.569Z
+2026-09-12 16:59:17.084: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:59:17.084: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:59:17.084: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:59:17.084: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:02:58.547: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:03:17.459: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:03:17.459: [INFO] Profiles total count: 1
+2026-09-12 17:03:17.459: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:02:58.409Z
+2026-09-12 17:03:17.459: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:03:17.459: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:02:58.409Z
+2026-09-12 17:03:17.459: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:03:17.459: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:03:17.459: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:03:17.459: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:05:18.928: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:05:42.415: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:05:42.415: [INFO] Profiles total count: 1
+2026-09-12 17:05:42.415: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:05:18.805Z
+2026-09-12 17:05:42.415: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:05:42.415: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:05:18.805Z
+2026-09-12 17:05:42.415: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:05:42.415: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:05:42.415: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:05:42.415: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:06:08.399: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:06:46.417: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:06:46.417: [INFO] Profiles total count: 1
+2026-09-12 17:06:46.417: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:06:06.582Z
+2026-09-12 17:06:46.417: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:06:46.417: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:06:06.582Z
+2026-09-12 17:06:46.417: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:06:46.417: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:06:46.417: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:06:46.417: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:06:49.310: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:06:54.038: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:06:54.038: [INFO] Profiles total count: 1
+2026-09-12 17:06:54.038: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:06:48.120Z
+2026-09-12 17:06:54.038: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:06:54.038: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:06:48.120Z
+2026-09-12 17:06:54.038: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:06:54.038: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:06:54.038: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:06:54.038: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:06:56.358: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:07:10.363: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:07:10.363: [INFO] Profiles total count: 1
+2026-09-12 17:07:10.363: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:06:54.106Z
+2026-09-12 17:07:10.363: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:07:10.363: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:06:54.106Z
+2026-09-12 17:07:10.363: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:07:10.363: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:07:10.363: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:07:10.363: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:07:25.423: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:11:06.735: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:11:06.735: [INFO] Profiles total count: 1
+2026-09-12 17:11:06.735: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:07:10.432Z
+2026-09-12 17:11:06.735: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 17:11:06.735: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:07:10.432Z
+2026-09-12 17:11:06.735: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:11:06.735: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:11:06.735: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:11:06.735: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:12:01.713: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:36:16.294: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:36:16.294: [INFO] Profiles total count: 1
+2026-09-12 18:36:16.294: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:11:06.805Z
+2026-09-12 18:36:16.294: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:36:16.294: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T17:11:06.805Z
+2026-09-12 18:36:16.294: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 18:36:16.294: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 18:36:16.294: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 18:36:16.294: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:36:39.950: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:36:49.373: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:36:49.373: [INFO] Profiles total count: 1
+2026-09-12 18:36:49.373: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:36:39.147Z
+2026-09-12 18:36:49.373: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:36:49.373: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:36:39.147Z
+2026-09-12 18:36:49.373: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 18:36:49.373: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 18:36:49.373: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 18:36:49.373: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:37:05.970: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:37:18.260: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:37:18.260: [INFO] Profiles total count: 1
+2026-09-12 18:37:18.260: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:37:04.864Z
+2026-09-12 18:37:18.260: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:37:18.261: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:37:04.864Z
+2026-09-12 18:37:18.261: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 18:37:18.261: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 18:37:18.261: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 18:37:18.261: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:37:45.707: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:38:13.487: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:38:13.487: [INFO] Profiles total count: 1
+2026-09-12 18:38:13.487: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:37:44.935Z
+2026-09-12 18:38:13.487: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:38:13.487: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:37:44.935Z
+2026-09-12 18:38:13.487: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 18:38:13.487: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 18:38:13.487: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 18:38:13.487: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:38:25.225: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:38:34.102: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:38:34.102: [INFO] Profiles total count: 1
+2026-09-12 18:38:34.102: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:38:24.588Z
+2026-09-12 18:38:34.102: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:38:34.102: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:38:24.588Z
+2026-09-12 18:38:34.102: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 18:38:34.102: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 18:38:34.102: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 18:38:34.102: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:38:40.350: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:39:24.572: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:39:24.572: [INFO] Profiles total count: 1
+2026-09-12 18:39:24.572: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:38:39.674Z
+2026-09-12 18:39:24.572: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:39:24.572: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:38:39.674Z
+2026-09-12 18:39:24.572: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 18:39:24.572: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 18:39:24.572: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 18:39:24.572: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:40:03.438: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:40:27.150: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:40:27.150: [INFO] Profiles total count: 1
+2026-09-12 18:40:27.150: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:40:03.279Z
+2026-09-12 18:40:27.150: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-12 18:40:27.150: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:40:03.279Z
+2026-09-12 18:40:27.150: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 18:40:27.150: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 18:40:27.150: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 18:40:27.150: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:41:21.534: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:20:54.189: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:20:54.189: [INFO] Profiles total count: 1
+2026-09-13 05:20:54.189: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:41:19.740Z
+2026-09-13 05:20:54.189: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:20:54.189: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-12T18:41:19.740Z
+2026-09-13 05:20:54.189: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 05:20:54.189: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 05:20:54.189: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 05:20:54.189: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:20:59.060: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:52:04.722: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:52:04.722: [INFO] Profiles total count: 1
+2026-09-13 05:52:04.722: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T05:21:09.050Z
+2026-09-13 05:52:04.722: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:52:04.722: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T05:21:09.050Z
+2026-09-13 05:52:04.722: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 05:52:04.722: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 05:52:04.722: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 05:52:04.722: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:52:47.837: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:56:22.067: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:56:22.067: [INFO] Profiles total count: 1
+2026-09-13 05:56:22.067: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T05:56:17.168Z
+2026-09-13 05:56:22.067: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:56:22.067: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T05:56:17.168Z
+2026-09-13 05:56:22.067: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 05:56:22.067: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 05:56:22.067: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 05:56:22.067: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:56:28.440: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:58:59.748: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:58:59.748: [INFO] Profiles total count: 1
+2026-09-13 05:58:59.748: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T05:56:27.683Z
+2026-09-13 05:58:59.748: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 05:58:59.748: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T05:56:27.683Z
+2026-09-13 05:58:59.748: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 05:58:59.748: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 05:58:59.748: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 05:58:59.748: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:59:02.274: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:24:01.224: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:24:01.224: [INFO] Profiles total count: 1
+2026-09-13 06:24:01.224: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:06:02.662Z
+2026-09-13 06:24:01.224: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:24:01.224: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:06:02.662Z
+2026-09-13 06:24:01.224: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 06:24:01.224: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 06:24:01.224: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 06:24:01.224: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:24:03.714: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:28:12.343: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:28:12.343: [INFO] Profiles total count: 1
+2026-09-13 06:28:12.343: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:24:01.293Z
+2026-09-13 06:28:12.343: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:28:12.343: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:24:01.293Z
+2026-09-13 06:28:12.343: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 06:28:12.343: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 06:28:12.343: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 06:28:12.343: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:28:17.939: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:28:28.968: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:28:28.968: [INFO] Profiles total count: 1
+2026-09-13 06:28:28.968: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:28:12.411Z
+2026-09-13 06:28:28.968: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:28:28.968: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:28:12.411Z
+2026-09-13 06:28:28.968: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 06:28:28.968: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 06:28:28.968: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 06:28:28.968: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:28:38.839: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:39:29.851: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:39:29.851: [INFO] Profiles total count: 1
+2026-09-13 06:39:29.851: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:28:29.032Z
+2026-09-13 06:39:29.851: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:39:29.851: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:28:29.032Z
+2026-09-13 06:39:29.851: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 06:39:29.851: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 06:39:29.851: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 06:39:29.851: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:39:39.896: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:41:14.373: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:41:14.373: [INFO] Profiles total count: 1
+2026-09-13 06:41:14.373: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:40:59.502Z
+2026-09-13 06:41:14.373: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 06:41:14.373: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:40:59.502Z
+2026-09-13 06:41:14.373: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 06:41:14.373: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 06:41:14.373: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 06:41:14.373: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:41:56.243: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 08:47:17.732: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 08:47:17.732: [INFO] Profiles total count: 1
+2026-09-13 08:47:17.732: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:41:16.414Z
+2026-09-13 08:47:17.732: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 08:47:17.732: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T06:41:16.414Z
+2026-09-13 08:47:17.732: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 08:47:17.732: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 08:47:17.732: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 08:47:17.732: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 08:47:25.609: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 08:48:03.979: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 08:48:03.979: [INFO] Profiles total count: 1
+2026-09-13 08:48:03.979: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T08:47:17.799Z
+2026-09-13 08:48:03.979: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-13 08:48:03.979: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T08:47:17.799Z
+2026-09-13 08:48:03.979: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 08:48:03.979: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 08:48:03.979: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 08:48:03.980: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 08:51:21.440: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 19:41:06.774: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 19:41:06.774: [INFO] Profiles total count: 1
+2026-09-14 19:41:06.775: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T08:51:13.125Z
+2026-09-14 19:41:06.775: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 19:41:06.775: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-13T08:51:13.125Z
+2026-09-14 19:41:06.775: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 19:41:06.775: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 19:41:06.775: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 19:41:06.775: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 19:41:10.092: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 19:42:44.477: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 19:42:44.477: [INFO] Profiles total count: 1
+2026-09-14 19:42:44.477: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T19:41:06.844Z
+2026-09-14 19:42:44.477: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 19:42:44.477: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T19:41:06.844Z
+2026-09-14 19:42:44.477: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 19:42:44.477: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 19:42:44.477: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 19:42:44.477: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:08:21.701: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:08:25.209: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:08:25.209: [INFO] Profiles total count: 1
+2026-09-14 21:08:25.209: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:05:53.270Z
+2026-09-14 21:08:25.209: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:08:25.209: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:05:53.270Z
+2026-09-14 21:08:25.209: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:08:25.209: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:08:25.209: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:08:25.209: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:23:50.563: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:23:51.702: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:23:51.702: [INFO] Profiles total count: 1
+2026-09-14 21:23:51.702: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:08:25.277Z
+2026-09-14 21:23:51.702: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:23:51.702: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:08:25.277Z
+2026-09-14 21:23:51.702: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:23:51.702: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:23:51.702: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:23:51.702: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:24:01.471: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:24:18.102: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:24:18.102: [INFO] Profiles total count: 1
+2026-09-14 21:24:18.102: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:23:51.768Z
+2026-09-14 21:24:18.102: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:24:18.102: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:23:51.768Z
+2026-09-14 21:24:18.102: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:24:18.102: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:24:18.102: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:24:18.102: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:24:21.427: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:26:47.019: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:26:47.019: [INFO] Profiles total count: 1
+2026-09-14 21:26:47.019: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:24:18.171Z
+2026-09-14 21:26:47.019: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:26:47.019: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:24:18.171Z
+2026-09-14 21:26:47.019: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:26:47.019: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:26:47.019: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:26:47.019: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:26:50.412: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:29:41.791: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:29:41.791: [INFO] Profiles total count: 1
+2026-09-14 21:29:41.791: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:26:47.089Z
+2026-09-14 21:29:41.791: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:29:41.791: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:26:47.089Z
+2026-09-14 21:29:41.791: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:29:41.791: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:29:41.791: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:29:41.791: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:36:03.689: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:36:04.931: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:36:04.931: [INFO] Profiles total count: 1
+2026-09-14 21:36:04.931: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:29:41.860Z
+2026-09-14 21:36:04.931: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:36:04.931: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:29:41.860Z
+2026-09-14 21:36:04.931: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:36:04.931: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:36:04.931: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:36:04.931: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:38:48.284: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:40:43.590: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:40:43.590: [INFO] Profiles total count: 1
+2026-09-14 21:40:43.590: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:38:38.663Z
+2026-09-14 21:40:43.590: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:40:43.590: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:38:38.663Z
+2026-09-14 21:40:43.590: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:40:43.590: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:40:43.590: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:40:43.590: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:46:39.869: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:46:43.690: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:46:43.690: [INFO] Profiles total count: 1
+2026-09-14 21:46:43.690: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:46:37.336Z
+2026-09-14 21:46:43.690: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 21:46:43.690: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T21:46:37.336Z
+2026-09-14 21:46:43.690: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 21:46:43.690: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 21:46:43.690: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 21:46:43.690: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 21:54:29.867: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:02:38.375: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:02:38.375: [INFO] Profiles total count: 1
+2026-09-14 22:02:38.375: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:01:20.764Z
+2026-09-14 22:02:38.375: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:02:38.375: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:01:20.764Z
+2026-09-14 22:02:38.375: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 22:02:38.375: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 22:02:38.375: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 22:02:38.375: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:02:54.833: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:03:00.163: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:03:00.163: [INFO] Profiles total count: 1
+2026-09-14 22:03:00.163: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:02:53.952Z
+2026-09-14 22:03:00.163: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:03:00.163: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:02:53.952Z
+2026-09-14 22:03:00.163: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 22:03:00.163: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 22:03:00.163: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 22:03:00.163: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:08:34.979: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:08:44.246: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:08:44.246: [INFO] Profiles total count: 1
+2026-09-14 22:08:44.246: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:08:30.911Z
+2026-09-14 22:08:44.246: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:08:44.246: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:08:30.911Z
+2026-09-14 22:08:44.246: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 22:08:44.246: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 22:08:44.246: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 22:08:44.246: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:08:56.574: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:09:15.295: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:09:15.295: [INFO] Profiles total count: 1
+2026-09-14 22:09:15.295: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:08:44.322Z
+2026-09-14 22:09:15.295: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:09:15.296: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:08:44.322Z
+2026-09-14 22:09:15.296: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 22:09:15.296: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 22:09:15.296: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 22:09:15.296: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:12:09.120: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:13:17.058: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:13:17.058: [INFO] Profiles total count: 1
+2026-09-14 22:13:17.058: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:12:36.365Z
+2026-09-14 22:13:17.058: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:13:17.058: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:12:36.365Z
+2026-09-14 22:13:17.058: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 22:13:17.058: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 22:13:17.058: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 22:13:17.058: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:13:37.045: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:13:58.048: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:13:58.048: [INFO] Profiles total count: 1
+2026-09-14 22:13:58.048: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:13:17.128Z
+2026-09-14 22:13:58.048: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:13:58.048: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:13:17.128Z
+2026-09-14 22:13:58.048: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 22:13:58.048: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 22:13:58.048: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 22:13:58.048: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:14:12.496: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 22:14:42.757: [INFO] CurrentProfilePath: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:14:42.757: [INFO] Profiles total count: 1
+2026-09-14 22:14:42.757: [INFO] Profile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:13:58.117Z
+2026-09-14 22:14:42.757: [INFO] LastUsedProfileDir: C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default
+2026-09-14 22:14:42.757: [INFO] MostRecentlyActiveProfile: name=プロファイル 1 path=C:\Users\marsp\Projects\Lattice\Lattice.exe.WebView2\EBWebView\Default lastActive=2026-09-14T22:13:58.117Z
+2026-09-14 22:14:42.757: [INFO] OnDoneLoading sync enabled: 0
+2026-09-14 22:14:42.757: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-14 22:14:42.757: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-14 22:14:42.757: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
